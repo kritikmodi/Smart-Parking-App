@@ -1,7 +1,6 @@
 ### SMART PARKING APP
 
 An app made using Flutter(for InOut7.0).
-> In progress.
 
 #### OBJECTIVE :
 
@@ -24,7 +23,7 @@ An app made using Flutter(for InOut7.0).
 
 #### HOW TO USE :
 
-* Clone the repository locally using `git clone https://github.com/Code-Shinobis/Smart-Parking-App`.
+* Clone the repository locally using `git clone https://github.com/kritikmodi/Smart-Parking-App`.
 * Open Android Studio(version 2.3 and above) with Flutter and Dart plug-ins installed.
 * Open the cloned project.
 * Browse to **pubspec.yaml** file in the **login_page** folder and use the `pub get` command on the dependencies to download and install them.
